@@ -26,6 +26,7 @@ import net.java.sip.communicator.service.dns.*;
 import net.java.sip.communicator.util.SRVRecord;
 
 import org.xbill.DNS.*;
+import org.xbill.DNS.Record;
 
 /**
  * Utility methods and fields to use when working with network addresses.

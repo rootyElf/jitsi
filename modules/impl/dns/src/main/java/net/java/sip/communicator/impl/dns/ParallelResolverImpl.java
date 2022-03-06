@@ -29,6 +29,7 @@ import net.java.sip.communicator.util.*;
 
 import org.jitsi.service.configuration.ConfigurationService;
 import org.xbill.DNS.*;
+import org.xbill.DNS.Record;
 
 /**
  * The purpose of this class is to help avoid the significant delays that occur
